@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: AI-Medical
+Version: 1.0.0
+Author: Passang Tshering Sherpa
+Author-email: ptsherpa525@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
